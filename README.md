@@ -16,7 +16,7 @@ This project explores Netflix Movies and TV Shows data using PostgreSQL. The ana
 
 ## Dataset
 
-**Source:** Netflix Movies and TV Shows Dataset from Kaggle
+- **Dataset Link:** https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 ## Database Schema
 
