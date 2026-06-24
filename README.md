@@ -302,6 +302,14 @@ GROUP BY category;
 - Country-wise trends reveal major content-producing regions.
 - SQL can effectively uncover business insights from large datasets.
 
+## How to Run
+
+1. Download the dataset from Kaggle.
+2. Create the Netflix table using the provided schema.
+3. Import the CSV file into PostgreSQL.
+4. Execute the SQL queries.
+5. Analyze the results and insights.
+   
 ## Conclusion
 
 This project demonstrates practical SQL skills by solving real-world business problems using Netflix data. The analysis showcases data exploration, aggregation, filtering, CTEs, window functions, and string operations in PostgreSQL.
