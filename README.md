@@ -285,13 +285,6 @@ GROUP BY category;
 
 ---
 
-```
-
-Continue the same format for Questions **6–15**.
-
-Then end with:
-
-```markdown
 ## Key Insights
 
 - Netflix offers a diverse mix of Movies and TV Shows.
@@ -303,5 +296,4 @@ Then end with:
 ## Conclusion
 
 This project demonstrates practical SQL skills by solving real-world business problems using Netflix data. The analysis showcases data exploration, aggregation, filtering, CTEs, window functions, and string operations in PostgreSQL.
-```
 
