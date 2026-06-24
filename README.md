@@ -21,7 +21,14 @@ This project explores Netflix Movies and TV Shows data using PostgreSQL. The ana
 - Used CTEs, Window Functions, Aggregations, and String Manipulation.
 - Performed content trend analysis across countries, ratings, genres, and release years.
 - Built entirely using PostgreSQL.
-- 
+
+## Project Structure
+```
+├── netflix_titles.csv
+├── netflix_queries.sql
+├── README.md
+└── screenshots/
+```
 ## Dataset
 
 - **Dataset Link:** https://www.kaggle.com/datasets/shivamb/netflix-shows
