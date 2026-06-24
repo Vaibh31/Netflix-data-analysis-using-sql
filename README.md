@@ -14,6 +14,14 @@ This project explores Netflix Movies and TV Shows data using PostgreSQL. The ana
 - Practice SQL using real-world business scenarios.
 - Generate meaningful insights from entertainment data.
 
+## Project Highlights
+
+- Analyzed 8,807 Netflix titles.
+- Solved 15 real-world business problems using SQL.
+- Used CTEs, Window Functions, Aggregations, and String Manipulation.
+- Performed content trend analysis across countries, ratings, genres, and release years.
+- Built entirely using PostgreSQL.
+- 
 ## Dataset
 
 - **Dataset Link:** https://www.kaggle.com/datasets/shivamb/netflix-shows
@@ -284,13 +292,7 @@ GROUP BY category;
 ```
 
 ---
-## Project Highlights
 
-- Analyzed 8,807 Netflix titles.
-- Solved 15 real-world business problems using SQL.
-- Used CTEs, Window Functions, Aggregations, and String Manipulation.
-- Performed content trend analysis across countries, ratings, genres, and release years.
-- Built entirely using PostgreSQL.
 
 ## Key Insights
 
