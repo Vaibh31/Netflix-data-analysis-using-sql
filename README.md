@@ -284,6 +284,13 @@ GROUP BY category;
 ```
 
 ---
+## Project Highlights
+
+- Analyzed 8,807 Netflix titles.
+- Solved 15 real-world business problems using SQL.
+- Used CTEs, Window Functions, Aggregations, and String Manipulation.
+- Performed content trend analysis across countries, ratings, genres, and release years.
+- Built entirely using PostgreSQL.
 
 ## Key Insights
 
